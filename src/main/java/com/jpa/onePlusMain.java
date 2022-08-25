@@ -20,7 +20,7 @@ public class onePlusMain {
 		OneOPlus op=new OneOPlus();
 		op.setId(598);
 		op.setBrandName("OnePlus 7T");
-		op.setCompanyName("OnePlus INDIA");
+		op.setCompanyName("OnePlusChina");
 		op.setModelName("7T");
 		op.setBrandPrice(54999.2f);
 	
